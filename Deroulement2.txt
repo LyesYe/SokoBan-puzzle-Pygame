@@ -1,0 +1,33 @@
+--Board 1-- 
+ Moves : RULL 
+ Step : 6 
+--Board 2-- 
+ Moves : UULLLLDDDRRDLDLUUUULURRRRURDD 
+ Step : 314 
+--Board 1-- 
+ Moves : RULL 
+ Step : 6 
+--Board 2-- 
+ Moves : UULLLLDDDRRDLDLUUUULURRRRURDD 
+ Step : 314 
+--Board 3-- 
+ Moves : LULLDRRRRURDDDLURULLLULLDRRRRURDD 
+ Step : 360 
+--Board 4-- 
+ Moves : LUURUULDDDDLDRRURRUULDRDLLDDRU 
+ Step : 915 
+--Board 5-- 
+ Moves : RDDDLLUUUULLDRRRRRUULDDDD 
+ Step : 776 
+--Board 6-- 
+ Moves : DDLLLULDDURRRRUULDRDLLLDLUUDRRRRDDLURULLL 
+ Step : 1009 
+--Board 7-- 
+ Moves : UULLLLDLURRRRRDDLURULLRDDLULUDRRULULRDDLULLDRRRDRURULLL 
+ Step : 5652 
+--Board 1-- 
+ Moves : RULL 
+ Step : 6 
+--Board 2-- 
+ Moves : UULLLLDDDRRDLDLUUUULURRRRURDD 
+ Step : 314 
